@@ -1,0 +1,11 @@
+.menu{
+    right: -100%;
+}
+
+.showMenu{
+    right: 10px;
+    transition: all 0.2s;  
+}
+.plus-icon{
+    background-color: red;
+}
